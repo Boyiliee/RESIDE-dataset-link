@@ -1,0 +1,38 @@
+Paper
+Benchmarking Single Image Dehazing and Beyond [arXiv version]
+
+Bibtex
+@article{li2017reside,
+
+  title={RESIDE: A Benchmark for Single Image Dehazing},
+
+  author={Li, Boyi and Ren, Wenqi and Fu, Dengpan and Tao, Dacheng and Feng, Dan and Zeng, Wenjun and Wang, Zhangyang},
+
+  journal={arXiv preprint arXiv:1712.04143},
+
+  year={2017}
+
+}
+
+Download RESIDE-standard Dataset
+ITS (Indoor Training Set)：
+
+（Dropbox）： http://tinyurl.com/y98eo4w8  
+
+（Baidu Yun）：http://tinyurl.com/yaohd3yv     Passward:  g0s6
+
+SOTS (Synthetic Objective Testing Set)：
+
+（Dropbox）:  http://t.cn/RQ34zUi  
+
+（Baidu Yun）: https://pan.baidu.com/share/init?surl=SSVzR058DX5ar5WL5oBTLg   Passward:  s6tu
+
+HSTS (Hybrid Subjective Testing Set)：
+
+ （Dropbox）  ：http://tinyurl.com/y7keuhvx
+
+（Baidu Yun）：https://pan.baidu.com/s/1cl1exWnaFXe3T5-Hr7TJIg   Passward:  vzeq
+
+Note: For Baidu Yun Link, you might need to refresh again or copy the link to a new webpage if it fails to redirect.
+
+请注意：如果您无法直接点击百度云链接访问，请开启一个新的网页并复制链接到地址栏。
