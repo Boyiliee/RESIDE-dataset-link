@@ -16,3 +16,7 @@ Bibtex
   journal={arXiv preprint arXiv:1712.04143},
   year={2017}
 }
+
+Official Link:
+
+https://sites.google.com/view/reside-dehaze-datasets/reside-standard?authuser=0 
