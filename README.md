@@ -10,11 +10,15 @@ Benchmarking Single Image Dehazing and Beyond [https://arxiv.org/abs/1712.04143]
 
 Bibtex
 
-@article{li2017reside,
-  title={RESIDE: A Benchmark for Single Image Dehazing},
+@article{li2018benchmarking,
+  title={Benchmarking single-image dehazing and beyond},
   author={Li, Boyi and Ren, Wenqi and Fu, Dengpan and Tao, Dacheng and Feng, Dan and Zeng, Wenjun and Wang, Zhangyang},
-  journal={arXiv preprint arXiv:1712.04143},
-  year={2017}
+  journal={IEEE Transactions on Image Processing},
+  volume={28},
+  number={1},
+  pages={492--505},
+  year={2018},
+  publisher={IEEE}
 }
 
 Official Link:
