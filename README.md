@@ -10,6 +10,7 @@ Benchmarking Single Image Dehazing and Beyond [https://arxiv.org/abs/1712.04143]
 
 Bibtex
 
+```
 @article{li2018benchmarking,
   title={Benchmarking single-image dehazing and beyond},
   author={Li, Boyi and Ren, Wenqi and Fu, Dengpan and Tao, Dacheng and Feng, Dan and Zeng, Wenjun and Wang, Zhangyang},
@@ -20,6 +21,7 @@ Bibtex
   year={2018},
   publisher={IEEE}
 }
+```
 
 Official Link:
 
