@@ -6,7 +6,7 @@ We present a comprehensive study and evaluation of existing single image dehazin
 
 Paper
 
-Benchmarking Single Image Dehazing and Beyond [https://arxiv.org/abs/1712.04143]
+Benchmarking Single Image Dehazing and Beyond [https://ieeexplore.ieee.org/abstract/document/8451944]
 
 Bibtex
 
