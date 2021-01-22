@@ -26,3 +26,7 @@ Bibtex
 Official Link:
 
 https://sites.google.com/view/reside-dehaze-datasets/reside-standard?authuser=0 
+
+## News 
+
+> We have fixed and updated Dropbox links. Please feel free to utilize it. 01/2021
