@@ -1,7 +1,7 @@
 Paper
 Benchmarking Single Image Dehazing and Beyond [arXiv version]
 
-'''
+
 Bibtex
 @article{li2017reside,
 
@@ -14,9 +14,8 @@ Bibtex
   year={2017}
 
 }
-'''
 
-##Download RESIDE-β Dataset
+Download RESIDE-β Dataset
 OTS (Outdoor Training Set)：
 
 （Dropbox）： https://bit.ly/3sDuD0R 
@@ -41,8 +40,3 @@ Note: For Baidu Yun Link, you might need to refresh again or copy the link to a 
 
 请注意：如果您无法直接点击百度云链接访问，请开启一个新的网页并复制链接到地址栏。
 
-
-
-Note: For Baidu Yun Link, you might need to refresh again or copy the link to a new webpage if it fails to redirect.
-
-请注意：如果您无法直接点击百度云链接访问，请开启一个新的网页并复制链接到地址栏。
